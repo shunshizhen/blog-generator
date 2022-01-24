@@ -165,7 +165,7 @@ theme = "LoveIt"
       #  主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题
-      subtitle = "凡事懈于垂成，忽于既定"
+      subtitle = "凡事懈于垂成，忽于既定。"
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -273,7 +273,7 @@ theme = "LoveIt"
       # 是否使用目录
       enable = true
       #  是否保持使用文章前面的静态目录
-      keepStatic = true
+      keepStatic = false
       # 是否使侧边目录自动折叠展开
       auto = true
     #  代码配置
@@ -432,7 +432,7 @@ theme = "LoveIt"
   #  TypeIt 配置
   [params.typeit]
     # 每一步的打字速度 (单位是毫秒)
-    speed = 200
+    speed = 100
     # 光标的闪烁速度 (单位是毫秒)
     cursorSpeed = 1000
     # 光标的字符 (支持 HTML 格式)

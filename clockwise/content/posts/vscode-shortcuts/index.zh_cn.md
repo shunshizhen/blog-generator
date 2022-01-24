@@ -4,7 +4,22 @@ date: 2022-01-24T23:46:18+08:00
 draft: true
 author: "顺时针"
 description: "VScode 快捷键归档"
+resources:
+- name: "featured-image"
+  src: "featured-image.jpg"
+
+tags: ["VScode","Shortcuts"]
+categories: ["Command"]
+
+toc:
+    auto: true
+
+lightgallery: true
 ---
+
+VScode 快捷键汇总
+
+<!--more-->
 
 ## General
 
