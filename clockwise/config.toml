@@ -6,7 +6,7 @@ languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "我的全新 Hugo 网站"
+title = "顺时针的博客"
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
 
@@ -105,13 +105,13 @@ theme = "LoveIt"
     #  页面头部导航栏标题配置
     [params.header.title]
       # LOGO 的 URL
-      logo = ""
+     # logo = "/favicon_package/icons8-clock-128.png"
       # 标题名称
       name = "顺时针"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
-      post = ""
+      post = "<i class=\"far fa-clock\"></i>"
       #  是否为标题显示打字机动画
       typeit = false
 
@@ -265,7 +265,7 @@ theme = "LoveIt"
     #  是否使用 fontawesome 扩展语法
     fontawesome = true
     # 是否在文章页面显示原始 Markdown 文档链接
-    linkToMarkdown = true
+    linkToMarkdown = false
     #  是否在 RSS 中显示全文内容
     rssFullText = false
     #  目录配置
