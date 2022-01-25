@@ -1,7 +1,7 @@
 ---
 title: "VScode Shortcuts"
 date: 2022-01-24T23:46:18+08:00
-lastmod: 2022-01-25T10:24:05+08:00
+lastmod: 2022-01-25T23:46:05+08:00
 draft: true
 author: "顺时针"
 description: "VScode 快捷键归档"
